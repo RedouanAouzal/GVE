@@ -12,7 +12,7 @@ The following versions of the website and its services are supported with securi
 At aouzal.com, the security of our users and data is a top priority. If you discover any vulnerabilities, we encourage you to report them.
 
 ### How to Report
-Please report vulnerabilities by emailing us at security@aouzal.com or using our Contact Form.
+Please report vulnerabilities by emailing us at security@goverticalexperience.com or using our Contact Form.
 ### What to Expect
 - Initial Response: You will receive an acknowledgment within 48 hours.
 - Update Frequency: We will keep you informed with updates every 7 business days while the issue is under investigation.
